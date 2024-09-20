@@ -1,6 +1,15 @@
 # Flyimg
 
-Flyimg is an innovative image processing and delivery service designed to provide high-performance, scalable, and customizable image transformation solutions. This project aims to simplify and streamline the management of images in modern web applications, offering real-time transformations, optimizations, and seamless delivery.
+<p align="center">
+  <a href="https://flyimg.io" target="_blank">
+    <img alt="Flyimg" src="https://raw.githubusercontent.com/flyimg/graphic-assets/main/logo/raster/flyimg-logo-rgb.png">
+  </a>
+  <br />
+    <a href="https://flyimg.io/"><strong>Official website »</strong></a>
+</p>
+
+
+Flyimg is an image processing and delivery service designed to provide high-performance, scalable, and customizable image transformation solutions. This project aims to simplify and streamline the management of images in modern web applications, offering real-time transformations, optimizations, and seamless delivery.
 
 ## What is Flyimg?
 
@@ -18,3 +27,8 @@ Flyimg allows developers and organizations to process and deliver images dynamic
 
 With the explosion of visual content on the web, ensuring that images are delivered quickly and efficiently is more important than ever. Flyimg aims to solve this by providing a solution that reduces the load on your server while improving the performance of your applications. You don’t need to worry about storing multiple versions of the same image, as Flyimg can generate the desired size, format, or transformation on-demand.
 
+## Demo
+
+Check out our demo page where you can test and review Flyimg's features:
+
+[https://demo.flyimg.io/](https://demo.flyimg.io)
